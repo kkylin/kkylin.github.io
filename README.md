@@ -1,5 +1,5 @@
 # Testing 1-2-3
 
 $$
-E = \frac{mc^2}{\sqrt{1-v^2/c^2}}
+f(z) = \frac1{2\pi i}\int_\gamma\frac{f(\xi)}{\xi-z}~d\xi
 $$
